@@ -1,0 +1,238 @@
+[
+ {
+  "asset_id": "slab_001",
+  "family": "slab",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/generated/gen_slab_600x400x30.stl",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "edges"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: solid slab 600x400x30 mm"
+ },
+ {
+  "asset_id": "table_001",
+  "family": "table",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/generated/gen_table_700x500x450.stl",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "edges",
+   "legs"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: 4-leg table 700x500 mm, 450 mm high"
+ },
+ {
+  "asset_id": "tray_001",
+  "family": "tray",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/generated/gen_tray_450x320_rim30.stl",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "edges",
+   "rim",
+   "floor"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: rimmed tray 450x320 mm, 30 mm rim"
+ },
+ {
+  "asset_id": "shelf_001",
+  "family": "shelf",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/generated/gen_shelf_600x300x500.stl",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "edges",
+   "lower_shelves"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: 3-board open shelf 600x300x500 mm"
+ },
+ {
+  "asset_id": "table_002",
+  "family": "table",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/generated/gen_pedestal_r250_h400.stl",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "edges",
+   "legs"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: round pedestal table, 500 mm dia, 400 mm high"
+ },
+ {
+  "asset_id": "tray_002",
+  "family": "tray",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Tray_Rectangle_Porcelain",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Tray_Rectangle_Porcelain",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Tray_Rectangle_Porcelain/meshes/model.obj",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "floor",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": "porcelain serving tray"
+ },
+ {
+  "asset_id": "stool_001",
+  "family": "stool",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 7d8c777573e7447697da14620ca482e5",
+  "source_url": "https://sketchfab.com/3d-models/7d8c777573e7447697da14620ca482e5",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.45,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-008/7d8c777573e7447697da14620ca482e5.glb",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "legs",
+   "stretchers"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.45 m; Sketchfab author: michaelroe; title: Wood Stool"
+ },
+ {
+  "asset_id": "stool_002",
+  "family": "stool",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 444140f8b755453b950c5a146f448ff3",
+  "source_url": "https://sketchfab.com/3d-models/444140f8b755453b950c5a146f448ff3",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.45,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-071/444140f8b755453b950c5a146f448ff3.glb",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "legs"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.45 m; Sketchfab author: rustbucket; title: Simple low poly stool"
+ },
+ {
+  "asset_id": "tray_003",
+  "family": "tray",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) baf3242c524f4e4483d7f6df5f0d9848",
+  "source_url": "https://sketchfab.com/3d-models/baf3242c524f4e4483d7f6df5f0d9848",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.45,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-052/baf3242c524f4e4483d7f6df5f0d9848.glb",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "floor",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.45 m; Sketchfab author: silvershieldassets; title: Metal Tray"
+ },
+ {
+  "asset_id": "cutting_board_001",
+  "family": "board",
+  "category_folder": "category2",
+  "categories": [
+   "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) c1e6ac573c37485f9e7acaaae418df30",
+  "source_url": "https://sketchfab.com/3d-models/c1e6ac573c37485f9e7acaaae418df30",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.4,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-082/c1e6ac573c37485f9e7acaaae418df30.glb",
+  "size_limit_m": null,
+  "candidate_regions": [
+   "top_face",
+   "edges"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.4 m; Sketchfab author: Just8; title: Cutting board"
+ }
+]

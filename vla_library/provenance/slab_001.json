@@ -1,0 +1,49 @@
+{
+  "asset_id": "slab_001",
+  "family": "slab",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "size_limit_m": null,
+  "candidate_regions": [
+    "top_face",
+    "edges"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: solid slab 600x400x30 mm",
+  "raw_input": "_downloads/generated/gen_slab_600x400x30.stl",
+  "stats": {
+    "extents_m": [
+      0.6,
+      0.4,
+      0.03
+    ],
+    "longest_dim_m": 0.6,
+    "watertight": true,
+    "volume_m3": 0.0072,
+    "face_count": 12,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.03,
+    "extent_xy_m": [
+      0.6,
+      0.4
+    ],
+    "area_m2": 0.24
+  }
+}

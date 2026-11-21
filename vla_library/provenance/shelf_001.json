@@ -1,0 +1,50 @@
+{
+  "asset_id": "shelf_001",
+  "family": "shelf",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "size_limit_m": null,
+  "candidate_regions": [
+    "top_face",
+    "edges",
+    "lower_shelves"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: 3-board open shelf 600x300x500 mm",
+  "raw_input": "_downloads/generated/gen_shelf_600x300x500.stl",
+  "stats": {
+    "extents_m": [
+      0.6,
+      0.3,
+      0.5
+    ],
+    "longest_dim_m": 0.6,
+    "watertight": true,
+    "volume_m3": 0.0145368,
+    "face_count": 84,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.5,
+    "extent_xy_m": [
+      0.6,
+      0.3
+    ],
+    "area_m2": 0.18
+  }
+}

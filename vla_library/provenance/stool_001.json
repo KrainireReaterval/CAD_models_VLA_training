@@ -1,0 +1,50 @@
+{
+  "asset_id": "stool_001",
+  "family": "stool",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 7d8c777573e7447697da14620ca482e5",
+  "source_url": "https://sketchfab.com/3d-models/7d8c777573e7447697da14620ca482e5",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.45,
+  "size_limit_m": null,
+  "candidate_regions": [
+    "top_face",
+    "legs",
+    "stretchers"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.45 m; Sketchfab author: michaelroe; title: Wood Stool",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-008/7d8c777573e7447697da14620ca482e5.glb",
+  "stats": {
+    "extents_m": [
+      0.3876,
+      0.3876,
+      0.45
+    ],
+    "longest_dim_m": 0.45,
+    "watertight": true,
+    "volume_m3": 0.0069168,
+    "face_count": 408,
+    "bodies": 13,
+    "holes_filled": 4,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.005696202531645569
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.45,
+    "extent_xy_m": [
+      0.3876,
+      0.3876
+    ],
+    "area_m2": 0.1161
+  }
+}

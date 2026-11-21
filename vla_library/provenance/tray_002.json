@@ -1,0 +1,49 @@
+{
+  "asset_id": "tray_002",
+  "family": "tray",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Tray_Rectangle_Porcelain",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Tray_Rectangle_Porcelain",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "size_limit_m": null,
+  "candidate_regions": [
+    "floor",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "porcelain serving tray; scanned floor is only approximately planar (strictly-flat region smaller than tray floor) - review",
+  "raw_input": "_downloads/gso/Threshold_Tray_Rectangle_Porcelain/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1688,
+      0.3145,
+      0.0349
+    ],
+    "longest_dim_m": 0.3145,
+    "watertight": true,
+    "volume_m3": 0.000446,
+    "face_count": 2740,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.0123,
+    "extent_xy_m": [
+      0.1041,
+      0.2435
+    ],
+    "area_m2": 0.0193
+  }
+}

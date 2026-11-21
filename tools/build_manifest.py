@@ -32,6 +32,10 @@ def main():
                 notes.append(f"holes_filled={st['holes_filled']}")
             if st["decimated"]:
                 notes.append("decimated")
+            if r.get("support_plane"):
+                sp = r["support_plane"]
+                notes.append(f"top_plane_height_m={sp['height_m']}; top_plane_extent_m="
+                             + "x".join(str(x) for x in sp["extent_xy_m"]) + f"; top_plane_area_m2={sp['area_m2']}")
             notes.append("extents_m=" + "x".join(str(x) for x in st["extents_m"]))
             w.writerow([
                 r["asset_id"], r["family"], "vla_library/" + r["category_folder"],

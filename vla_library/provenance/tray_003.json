@@ -1,0 +1,49 @@
+{
+  "asset_id": "tray_003",
+  "family": "tray",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) baf3242c524f4e4483d7f6df5f0d9848",
+  "source_url": "https://sketchfab.com/3d-models/baf3242c524f4e4483d7f6df5f0d9848",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.45,
+  "size_limit_m": null,
+  "candidate_regions": [
+    "floor",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.45 m; Sketchfab author: silvershieldassets; title: Metal Tray",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-052/baf3242c524f4e4483d7f6df5f0d9848.glb",
+  "stats": {
+    "extents_m": [
+      0.3513,
+      0.45,
+      0.0273
+    ],
+    "longest_dim_m": 0.45,
+    "watertight": true,
+    "volume_m3": 0.0012034,
+    "face_count": 916,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.269647997685652
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.0081,
+    "extent_xy_m": [
+      0.2899,
+      0.3886
+    ],
+    "area_m2": 0.1113
+  }
+}

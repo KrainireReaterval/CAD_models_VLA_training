@@ -1,0 +1,50 @@
+{
+  "asset_id": "table_001",
+  "family": "table",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "generated (tools/make_supports.py)",
+  "source_url": "tools/make_supports.py",
+  "license": "CC0-1.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "size_limit_m": null,
+  "candidate_regions": [
+    "top_face",
+    "edges",
+    "legs"
+  ],
+  "ambiguous": false,
+  "notes": "parametric: 4-leg table 700x500 mm, 450 mm high",
+  "raw_input": "_downloads/generated/gen_table_700x500x450.stl",
+  "stats": {
+    "extents_m": [
+      0.7,
+      0.5,
+      0.4505
+    ],
+    "longest_dim_m": 0.7,
+    "watertight": true,
+    "volume_m3": 0.0114732,
+    "face_count": 76,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.4505,
+    "extent_xy_m": [
+      0.7,
+      0.5
+    ],
+    "area_m2": 0.35
+  }
+}

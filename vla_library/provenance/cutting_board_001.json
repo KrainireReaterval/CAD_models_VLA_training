@@ -1,0 +1,49 @@
+{
+  "asset_id": "cutting_board_001",
+  "family": "board",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) c1e6ac573c37485f9e7acaaae418df30",
+  "source_url": "https://sketchfab.com/3d-models/c1e6ac573c37485f9e7acaaae418df30",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.4,
+  "size_limit_m": null,
+  "candidate_regions": [
+    "top_face",
+    "edges"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.4 m; Sketchfab author: Just8; title: Cutting board",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-082/c1e6ac573c37485f9e7acaaae418df30.glb",
+  "stats": {
+    "extents_m": [
+      0.2425,
+      0.4,
+      0.0256
+    ],
+    "longest_dim_m": 0.4,
+    "watertight": true,
+    "volume_m3": 0.0024328,
+    "face_count": 3932,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.5277982493532848
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.0255,
+    "extent_xy_m": [
+      0.2378,
+      0.3953
+    ],
+    "area_m2": 0.0801
+  }
+}

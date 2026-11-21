@@ -1,0 +1,49 @@
+{
+  "asset_id": "stool_002",
+  "family": "stool",
+  "category_folder": "category2",
+  "categories": [
+    "support"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 444140f8b755453b950c5a146f448ff3",
+  "source_url": "https://sketchfab.com/3d-models/444140f8b755453b950c5a146f448ff3",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.45,
+  "size_limit_m": null,
+  "candidate_regions": [
+    "top_face",
+    "legs"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.45 m; Sketchfab author: rustbucket; title: Simple low poly stool",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-071/444140f8b755453b950c5a146f448ff3.glb",
+  "stats": {
+    "extents_m": [
+      0.2552,
+      0.2449,
+      0.45
+    ],
+    "longest_dim_m": 0.45,
+    "watertight": true,
+    "volume_m3": 0.0042323,
+    "face_count": 838,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "union",
+    "assigned_scale_m": 0.012877307802365559
+  },
+  "over_size_limit": false,
+  "support_plane": {
+    "height_m": 0.4476,
+    "extent_xy_m": [
+      0.2442,
+      0.2345
+    ],
+    "area_m2": 0.0402
+  }
+}
