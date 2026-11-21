@@ -73,30 +73,6 @@
   "notes": ""
  },
  {
-  "asset_id": "frying_pan_001",
-  "family": "frying_pan",
-  "category_folder": "category1/handle",
-  "categories": [
-   "everyday"
-  ],
-  "origin": "scan",
-  "source": "Google Scanned Objects Chefmate_8_Frypan",
-  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chefmate_8_Frypan",
-  "license": "CC-BY-4.0",
-  "source_units": "m",
-  "scale": 1.0,
-  "up": "z",
-  "input": "_downloads/gso/Chefmate_8_Frypan/meshes/model.obj",
-  "candidate_regions": [
-   "handle",
-   "interior",
-   "rim",
-   "bottom_face"
-  ],
-  "ambiguous": false,
-  "notes": "over 0.3 m (handle length); review"
- },
- {
   "asset_id": "basket_001",
   "family": "basket",
   "category_folder": "category1/handle",
