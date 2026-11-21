@@ -1,0 +1,40 @@
+{
+  "asset_id": "hard_drive_001",
+  "family": "hard_drive",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Seagate_1TB_Backup_Plus_portable_drive_Blue",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Seagate_1TB_Backup_Plus_portable_drive_Blue",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Seagate_1TB_Backup_Plus_portable_drive_Blue/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.0157,
+      0.0818,
+      0.124
+    ],
+    "longest_dim_m": 0.124,
+    "watertight": true,
+    "volume_m3": 0.0001501,
+    "face_count": 3272,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

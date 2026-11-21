@@ -460,7 +460,7 @@
    "buttons"
   ],
   "ambiguous": false,
-  "notes": ""
+  "notes": "corded mouse; scan includes loose cable"
  },
  {
   "asset_id": "mouse_002",
@@ -482,7 +482,7 @@
    "buttons"
   ],
   "ambiguous": false,
-  "notes": ""
+  "notes": "corded mouse; scan includes loose cable"
  },
  {
   "asset_id": "tape_roll_001",
@@ -618,7 +618,7 @@
    "body"
   ],
   "ambiguous": false,
-  "notes": ""
+  "notes": "Android figure"
  },
  {
   "asset_id": "hard_drive_001",

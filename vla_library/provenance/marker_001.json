@@ -1,0 +1,40 @@
+{
+  "asset_id": "marker_001",
+  "family": "marker",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 040_large_marker (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/040_large_marker_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "cap",
+    "body"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/ycb/040_large_marker/040_large_marker/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.021,
+      0.121,
+      0.0189
+    ],
+    "longest_dim_m": 0.121,
+    "watertight": true,
+    "volume_m3": 2.74e-05,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

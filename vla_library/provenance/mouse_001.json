@@ -1,0 +1,40 @@
+{
+  "asset_id": "mouse_001",
+  "family": "computer_mouse",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Razer_Abyssus_Ambidextrous_Gaming_Mouse",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Razer_Abyssus_Ambidextrous_Gaming_Mouse",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_shell",
+    "buttons"
+  ],
+  "ambiguous": false,
+  "notes": "corded mouse; scan includes loose cable",
+  "raw_input": "_downloads/gso/Razer_Abyssus_Ambidextrous_Gaming_Mouse/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.101,
+      0.1458,
+      0.0384
+    ],
+    "longest_dim_m": 0.1458,
+    "watertight": true,
+    "volume_m3": 0.0001833,
+    "face_count": 33292,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

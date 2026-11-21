@@ -1,0 +1,41 @@
+{
+  "asset_id": "eraser_001",
+  "family": "eraser",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) e4f44df62e974e8a8c09e2e6f4be0a43",
+  "source_url": "https://sketchfab.com/3d-models/e4f44df62e974e8a8c09e2e6f4be0a43",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.12,
+  "largest_only": false,
+  "candidate_regions": [
+    "top_face",
+    "erasing_face"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.12 m; Sketchfab author: swaplearning; title: Eraser",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-072/e4f44df62e974e8a8c09e2e6f4be0a43.glb",
+  "stats": {
+    "extents_m": [
+      0.12,
+      0.0539,
+      0.0382
+    ],
+    "longest_dim_m": 0.12,
+    "watertight": true,
+    "volume_m3": 0.0002142,
+    "face_count": 980,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.1677419484127867
+  },
+  "over_size_limit": false
+}

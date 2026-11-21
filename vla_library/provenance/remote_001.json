@@ -1,0 +1,41 @@
+{
+  "asset_id": "remote_001",
+  "family": "remote_control",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 08a82d744b39481dbb40289faea1ba8f",
+  "source_url": "https://sketchfab.com/3d-models/08a82d744b39481dbb40289faea1ba8f",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.18,
+  "largest_only": false,
+  "candidate_regions": [
+    "button_face",
+    "body"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.18 m; Sketchfab author: KhalifaAdam96; title: 90's TV Remote",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-031/08a82d744b39481dbb40289faea1ba8f.glb",
+  "stats": {
+    "extents_m": [
+      0.0261,
+      0.0453,
+      0.18
+    ],
+    "longest_dim_m": 0.18,
+    "watertight": true,
+    "volume_m3": 0.0001492,
+    "face_count": 3152,
+    "bodies": 3,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "union",
+    "assigned_scale_m": 0.064060691434644
+  },
+  "over_size_limit": false
+}

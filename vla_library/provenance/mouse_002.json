@@ -1,0 +1,40 @@
+{
+  "asset_id": "mouse_002",
+  "family": "computer_mouse",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Razer_Taipan_White_Ambidextrous_Gaming_Mouse",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Razer_Taipan_White_Ambidextrous_Gaming_Mouse",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_shell",
+    "buttons"
+  ],
+  "ambiguous": false,
+  "notes": "corded mouse; scan includes loose cable",
+  "raw_input": "_downloads/gso/Razer_Taipan_White_Ambidextrous_Gaming_Mouse/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.0998,
+      0.1821,
+      0.0399
+    ],
+    "longest_dim_m": 0.1821,
+    "watertight": true,
+    "volume_m3": 0.0001998,
+    "face_count": 23000,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

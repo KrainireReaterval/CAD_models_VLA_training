@@ -1,0 +1,40 @@
+{
+  "asset_id": "scissors_001",
+  "family": "scissors",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 037_scissors (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/037_scissors_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "finger_loops",
+    "blades"
+  ],
+  "ambiguous": true,
+  "notes": "handle ambiguous (finger loops)",
+  "raw_input": "_downloads/ycb/037_scissors/037_scissors/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.0961,
+      0.2015,
+      0.0157
+    ],
+    "longest_dim_m": 0.2015,
+    "watertight": true,
+    "volume_m3": 4.68e-05,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

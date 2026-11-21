@@ -1,0 +1,40 @@
+{
+  "asset_id": "soap_dish_001",
+  "family": "soap_dish",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Bamboo_Ceramic_Soap_Dish",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Bamboo_Ceramic_Soap_Dish",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Threshold_Bamboo_Ceramic_Soap_Dish/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1247,
+      0.0981,
+      0.0506
+    ],
+    "longest_dim_m": 0.1247,
+    "watertight": true,
+    "volume_m3": 0.0002786,
+    "face_count": 11820,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

@@ -1,0 +1,40 @@
+{
+  "asset_id": "sponge_001",
+  "family": "sponge",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 026_sponge (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/026_sponge_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "scrub_face"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/ycb/026_sponge/026_sponge/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.0791,
+      0.1121,
+      0.019
+    ],
+    "longest_dim_m": 0.1121,
+    "watertight": true,
+    "volume_m3": 0.0001157,
+    "face_count": 16374,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

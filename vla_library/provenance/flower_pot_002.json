@@ -1,0 +1,41 @@
+{
+  "asset_id": "flower_pot_002",
+  "family": "flower_pot",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Cole_Hardware_Flower_Pot_1025",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cole_Hardware_Flower_Pot_1025",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "interior",
+    "rim",
+    "body"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Cole_Hardware_Flower_Pot_1025/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.2499,
+      0.2467,
+      0.2168
+    ],
+    "longest_dim_m": 0.2499,
+    "watertight": true,
+    "volume_m3": 0.001072,
+    "face_count": 5816,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

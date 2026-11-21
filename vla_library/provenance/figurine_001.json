@@ -1,0 +1,40 @@
+{
+  "asset_id": "figurine_001",
+  "family": "figurine",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Android_Figure_Panda",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Android_Figure_Panda",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "head",
+    "body"
+  ],
+  "ambiguous": false,
+  "notes": "Android figure",
+  "raw_input": "_downloads/gso/Android_Figure_Panda/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.0608,
+      0.0463,
+      0.0757
+    ],
+    "longest_dim_m": 0.0757,
+    "watertight": true,
+    "volume_m3": 0.0001,
+    "face_count": 10618,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

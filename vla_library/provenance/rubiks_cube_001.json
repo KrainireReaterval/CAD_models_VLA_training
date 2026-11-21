@@ -1,0 +1,40 @@
+{
+  "asset_id": "rubiks_cube_001",
+  "family": "cube",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 077_rubiks_cube (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/077_rubiks_cube_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/ycb/077_rubiks_cube/077_rubiks_cube/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.0757,
+      0.0761,
+      0.0579
+    ],
+    "longest_dim_m": 0.0761,
+    "watertight": true,
+    "volume_m3": 0.0001829,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

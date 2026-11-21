@@ -1,0 +1,40 @@
+{
+  "asset_id": "stapler_002",
+  "family": "stapler",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Objaverse 1.0 (Sketchfab) 7c5f400773d940cdb2bc6884c990e888",
+  "source_url": "https://sketchfab.com/3d-models/7c5f400773d940cdb2bc6884c990e888",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.15,
+  "candidate_regions": [
+    "top_arm",
+    "base"
+  ],
+  "ambiguous": false,
+  "notes": "photogrammetry scan; unitless source, scaled so longest dim = 0.15 m; Sketchfab author: Austin.Beaulier; title: Red Stapler (photogrammetry)",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-116/7c5f400773d940cdb2bc6884c990e888.glb",
+  "stats": {
+    "extents_m": [
+      0.0365,
+      0.15,
+      0.0464
+    ],
+    "longest_dim_m": 0.15,
+    "watertight": true,
+    "volume_m3": 0.0001276,
+    "face_count": 10000,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.00820034085711451
+  },
+  "over_size_limit": false
+}

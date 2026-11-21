@@ -1,0 +1,41 @@
+{
+  "asset_id": "flower_pot_001",
+  "family": "flower_pot",
+  "category_folder": "category3",
+  "categories": [
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Ecoforms_Pot_Nova_6_Turquoise",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Ecoforms_Pot_Nova_6_Turquoise",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "interior",
+    "rim",
+    "body"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Ecoforms_Pot_Nova_6_Turquoise/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1808,
+      0.1802,
+      0.1699
+    ],
+    "longest_dim_m": 0.1808,
+    "watertight": true,
+    "volume_m3": 0.0002155,
+    "face_count": 8176,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}
