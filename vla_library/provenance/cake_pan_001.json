@@ -1,0 +1,41 @@
+{
+  "asset_id": "cake_pan_001",
+  "family": "cake_pan",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Chef_Style_Round_Cake_Pan_9_inch_pan",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chef_Style_Round_Cake_Pan_9_inch_pan",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "interior",
+    "rim",
+    "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Chef_Style_Round_Cake_Pan_9_inch_pan/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.2459,
+      0.246,
+      0.0452
+    ],
+    "longest_dim_m": 0.246,
+    "watertight": true,
+    "volume_m3": 0.0001325,
+    "face_count": 4436,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

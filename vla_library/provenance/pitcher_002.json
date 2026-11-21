@@ -1,0 +1,43 @@
+{
+  "asset_id": "pitcher_002",
+  "family": "pitcher",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Porcelain_Pitcher_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Porcelain_Pitcher_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "body",
+    "interior",
+    "rim",
+    "spout"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Threshold_Porcelain_Pitcher_White/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.2389,
+      0.1688,
+      0.2784
+    ],
+    "longest_dim_m": 0.2784,
+    "watertight": true,
+    "volume_m3": 0.0053107,
+    "face_count": 9344,
+    "bodies": 2,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

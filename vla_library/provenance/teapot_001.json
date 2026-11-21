@@ -1,0 +1,42 @@
+{
+  "asset_id": "teapot_001",
+  "family": "teapot",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Porcelain_Teapot_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Porcelain_Teapot_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "body",
+    "spout",
+    "lid_knob"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Threshold_Porcelain_Teapot_White/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1867,
+      0.1843,
+      0.1363
+    ],
+    "longest_dim_m": 0.1867,
+    "watertight": true,
+    "volume_m3": 0.0021056,
+    "face_count": 8320,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

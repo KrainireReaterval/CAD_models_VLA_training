@@ -1,0 +1,513 @@
+[
+ {
+  "asset_id": "kettle_001",
+  "family": "kettle",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) d4d8b9a992be43ef8b433c6463c653c5",
+  "source_url": "https://sketchfab.com/3d-models/d4d8b9a992be43ef8b433c6463c653c5",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.24,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-101/d4d8b9a992be43ef8b433c6463c653c5.glb",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "spout",
+   "lid"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.24 m; Sketchfab author: clayton_creative; title: Kitchen Kettle (Game Ready)"
+ },
+ {
+  "asset_id": "kettle_002",
+  "family": "kettle",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 3dd8ef4d52e2446c82346a93f460a0a8",
+  "source_url": "https://sketchfab.com/3d-models/3dd8ef4d52e2446c82346a93f460a0a8",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.24,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-133/3dd8ef4d52e2446c82346a93f460a0a8.glb",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "spout",
+   "lid"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.24 m; Sketchfab author: runyhoangtan; title: kettle"
+ },
+ {
+  "asset_id": "teapot_002",
+  "family": "teapot",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) af249e607bea40cfa2f275e5e23b8283",
+  "source_url": "https://sketchfab.com/3d-models/af249e607bea40cfa2f275e5e23b8283",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.22,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-057/af249e607bea40cfa2f275e5e23b8283.glb",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "spout",
+   "lid"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.22 m; Sketchfab author: TurboSlowSSS; title: Soviet Teapot"
+ },
+ {
+  "asset_id": "saucepan_001",
+  "family": "saucepan",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) c8c6b9fd04254a6489b3401696f60fc8",
+  "source_url": "https://sketchfab.com/3d-models/c8c6b9fd04254a6489b3401696f60fc8",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": true,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-098/c8c6b9fd04254a6489b3401696f60fc8.glb",
+  "candidate_regions": [
+   "handle",
+   "interior",
+   "rim",
+   "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: ie-niels; title: Saucepan from Poly by Google; separate lid body dropped (largest component kept)"
+ },
+ {
+  "asset_id": "watering_can_001",
+  "family": "watering_can",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) feadfb9d10434182948d4e3e80117e71",
+  "source_url": "https://sketchfab.com/3d-models/feadfb9d10434182948d4e3e80117e71",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-044/feadfb9d10434182948d4e3e80117e71.glb",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "spout",
+   "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: quack; title: Water Can"
+ },
+ {
+  "asset_id": "watering_can_002",
+  "family": "watering_can",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) b1bc8de2e44c4b49a4b9ca9b3f185ed9",
+  "source_url": "https://sketchfab.com/3d-models/b1bc8de2e44c4b49a4b9ca9b3f185ed9",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-050/b1bc8de2e44c4b49a4b9ca9b3f185ed9.glb",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "spout",
+   "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: darthobsidian; title: Watering Pail (low poly)"
+ },
+ {
+  "asset_id": "bucket_001",
+  "family": "bucket",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 64c4b2642a3c4de5a95fdfa44e7a5fdd",
+  "source_url": "https://sketchfab.com/3d-models/64c4b2642a3c4de5a95fdfa44e7a5fdd",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.25,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-099/64c4b2642a3c4de5a95fdfa44e7a5fdd.glb",
+  "candidate_regions": [
+   "bail_handle",
+   "body",
+   "interior",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.25 m; Sketchfab author: hoosker; title: Paint Bucket - Easy Model"
+ },
+ {
+  "asset_id": "bucket_002",
+  "family": "bucket",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) cb484683659d465796ed5af8664cf58f",
+  "source_url": "https://sketchfab.com/3d-models/cb484683659d465796ed5af8664cf58f",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.25,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-092/cb484683659d465796ed5af8664cf58f.glb",
+  "candidate_regions": [
+   "bail_handle",
+   "body",
+   "interior",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.25 m; Sketchfab author: plaggy; title: CC0 - Bucket 3"
+ },
+ {
+  "asset_id": "ladle_001",
+  "family": "ladle",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 252ad3b345ae433abdd92588b2f6e34e",
+  "source_url": "https://sketchfab.com/3d-models/252ad3b345ae433abdd92588b2f6e34e",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-008/252ad3b345ae433abdd92588b2f6e34e.glb",
+  "candidate_regions": [
+   "handle",
+   "bowl",
+   "interior"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: joseorozco84; title: Low Poly Ladle"
+ },
+ {
+  "asset_id": "ladle_002",
+  "family": "ladle",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) ce27e3369587476c85a436905f1e5c00",
+  "source_url": "https://sketchfab.com/3d-models/ce27e3369587476c85a436905f1e5c00",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-039/ce27e3369587476c85a436905f1e5c00.glb",
+  "candidate_regions": [
+   "handle",
+   "bowl",
+   "interior"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: O-tolab; title: Ladle △952"
+ },
+ {
+  "asset_id": "power_drill_002",
+  "family": "power_drill",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 2b82c7206188491bba8306650782f6fe",
+  "source_url": "https://sketchfab.com/3d-models/2b82c7206188491bba8306650782f6fe",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.22,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-004/2b82c7206188491bba8306650782f6fe.glb",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "chuck",
+   "trigger"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.22 m; Sketchfab author: Sbell_Reality3D; title: Cordless Drill 75K polygons"
+ },
+ {
+  "asset_id": "hammer_002",
+  "family": "hammer",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 76a75a4cafb74489a3c5385834058f0b",
+  "source_url": "https://sketchfab.com/3d-models/76a75a4cafb74489a3c5385834058f0b",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.3,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-066/76a75a4cafb74489a3c5385834058f0b.glb",
+  "candidate_regions": [
+   "handle",
+   "head",
+   "claw"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.3 m; Sketchfab author: cc03d; title: Old Used Hammer 1 | CC0"
+ },
+ {
+  "asset_id": "frying_pan_002",
+  "family": "frying_pan",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) a3a66d9208f141e79180072e9120d7ce",
+  "source_url": "https://sketchfab.com/3d-models/a3a66d9208f141e79180072e9120d7ce",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.3,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-090/a3a66d9208f141e79180072e9120d7ce.glb",
+  "candidate_regions": [
+   "handle",
+   "interior",
+   "rim",
+   "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.3 m; Sketchfab author: BloodDoan; title: frying pan"
+ },
+ {
+  "asset_id": "vase_001",
+  "family": "vase",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 2110860cb48741a098f68c6d5009e705",
+  "source_url": "https://sketchfab.com/3d-models/2110860cb48741a098f68c6d5009e705",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.25,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-075/2110860cb48741a098f68c6d5009e705.glb",
+  "candidate_regions": [
+   "body",
+   "neck",
+   "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.25 m; Sketchfab author: 3DTrip; title: Vase Ribbed LP V2"
+ },
+ {
+  "asset_id": "vase_002",
+  "family": "vase",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) d726514a97f74f168b104fd6ba538331",
+  "source_url": "https://sketchfab.com/3d-models/d726514a97f74f168b104fd6ba538331",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.25,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-128/d726514a97f74f168b104fd6ba538331.glb",
+  "candidate_regions": [
+   "body",
+   "neck",
+   "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.25 m; Sketchfab author: Nameera; title: Stylized Vase 1"
+ },
+ {
+  "asset_id": "candle_001",
+  "family": "candle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 497251bd38464483b93ac9e7cde0dd05",
+  "source_url": "https://sketchfab.com/3d-models/497251bd38464483b93ac9e7cde0dd05",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.12,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-134/497251bd38464483b93ac9e7cde0dd05.glb",
+  "candidate_regions": [
+   "body",
+   "top_face",
+   "wick"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.12 m; Sketchfab author: RainerWahnsinn; title: Candle"
+ },
+ {
+  "asset_id": "candle_002",
+  "family": "candle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) c3d85aaabddf4585b2468a5bca9f51d5",
+  "source_url": "https://sketchfab.com/3d-models/c3d85aaabddf4585b2468a5bca9f51d5",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.12,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-015/c3d85aaabddf4585b2468a5bca9f51d5.glb",
+  "candidate_regions": [
+   "holder",
+   "top_face",
+   "wick"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.12 m; Sketchfab author: shannen_art; title: Simple candle; candle in jar holder"
+ },
+ {
+  "asset_id": "stapler_001",
+  "family": "stapler",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 0adcf1771a3c4b5c922c47dd09d149b0",
+  "source_url": "https://sketchfab.com/3d-models/0adcf1771a3c4b5c922c47dd09d149b0",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.15,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-012/0adcf1771a3c4b5c922c47dd09d149b0.glb",
+  "candidate_regions": [
+   "top_arm",
+   "base"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.15 m; Sketchfab author: DrewA; title: Stapler"
+ },
+ {
+  "asset_id": "eraser_001",
+  "family": "eraser",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) e4f44df62e974e8a8c09e2e6f4be0a43",
+  "source_url": "https://sketchfab.com/3d-models/e4f44df62e974e8a8c09e2e6f4be0a43",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.12,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-072/e4f44df62e974e8a8c09e2e6f4be0a43.glb",
+  "candidate_regions": [
+   "top_face",
+   "erasing_face"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.12 m; Sketchfab author: swaplearning; title: Eraser"
+ },
+ {
+  "asset_id": "remote_001",
+  "family": "remote_control",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 08a82d744b39481dbb40289faea1ba8f",
+  "source_url": "https://sketchfab.com/3d-models/08a82d744b39481dbb40289faea1ba8f",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.18,
+  "largest_only": false,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-031/08a82d744b39481dbb40289faea1ba8f.glb",
+  "candidate_regions": [
+   "button_face",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.18 m; Sketchfab author: KhalifaAdam96; title: 90's TV Remote"
+ },
+ {
+  "asset_id": "stapler_002",
+  "family": "stapler",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Objaverse 1.0 (Sketchfab) 7c5f400773d940cdb2bc6884c990e888",
+  "source_url": "https://sketchfab.com/3d-models/7c5f400773d940cdb2bc6884c990e888",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.15,
+  "input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-116/7c5f400773d940cdb2bc6884c990e888.glb",
+  "candidate_regions": [
+   "top_arm",
+   "base"
+  ],
+  "ambiguous": false,
+  "notes": "photogrammetry scan; unitless source, scaled so longest dim = 0.15 m; Sketchfab author: Austin.Beaulier; title: Red Stapler (photogrammetry)"
+ }
+]

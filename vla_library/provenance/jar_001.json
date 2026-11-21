@@ -1,0 +1,40 @@
+{
+  "asset_id": "jar_001",
+  "family": "jar",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Nestle_Nesquik_Chocolate_Powder_Flavored_Milk_Additive_109_Oz_Canister",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Nestle_Nesquik_Chocolate_Powder_Flavored_Milk_Additive_109_Oz_Canister",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "body",
+    "lid"
+  ],
+  "ambiguous": false,
+  "notes": "canister",
+  "raw_input": "_downloads/gso/Nestle_Nesquik_Chocolate_Powder_Flavored_Milk_Additive_109_Oz_Canister/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.0622,
+      0.1068,
+      0.1437
+    ],
+    "longest_dim_m": 0.1437,
+    "watertight": true,
+    "volume_m3": 0.0007205,
+    "face_count": 14756,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

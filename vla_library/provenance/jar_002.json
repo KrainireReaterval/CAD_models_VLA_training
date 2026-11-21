@@ -1,0 +1,41 @@
+{
+  "asset_id": "jar_002",
+  "family": "jar",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects AllergenFree_JarroDophilus",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/AllergenFree_JarroDophilus",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "body",
+    "lid"
+  ],
+  "ambiguous": false,
+  "notes": "supplement jar",
+  "raw_input": "_downloads/gso/AllergenFree_JarroDophilus/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.0539,
+      0.0536,
+      0.096
+    ],
+    "longest_dim_m": 0.096,
+    "watertight": true,
+    "volume_m3": 0.0001866,
+    "face_count": 8126,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

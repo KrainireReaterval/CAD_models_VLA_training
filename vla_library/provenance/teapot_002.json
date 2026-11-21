@@ -1,0 +1,43 @@
+{
+  "asset_id": "teapot_002",
+  "family": "teapot",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) af249e607bea40cfa2f275e5e23b8283",
+  "source_url": "https://sketchfab.com/3d-models/af249e607bea40cfa2f275e5e23b8283",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.22,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "body",
+    "spout",
+    "lid"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.22 m; Sketchfab author: TurboSlowSSS; title: Soviet Teapot",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-057/af249e607bea40cfa2f275e5e23b8283.glb",
+  "stats": {
+    "extents_m": [
+      0.175,
+      0.22,
+      0.2169
+    ],
+    "longest_dim_m": 0.22,
+    "watertight": true,
+    "volume_m3": 0.002538,
+    "face_count": 1370,
+    "bodies": 1,
+    "holes_filled": 4,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "union",
+    "assigned_scale_m": 0.11000000111900803
+  },
+  "over_size_limit": false
+}

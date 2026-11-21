@@ -1,0 +1,41 @@
+{
+  "asset_id": "bowl_002",
+  "family": "bowl",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Bead_Cereal_Bowl_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Bead_Cereal_Bowl_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "interior",
+    "rim",
+    "exterior"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Threshold_Bead_Cereal_Bowl_White/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1698,
+      0.1663,
+      0.0707
+    ],
+    "longest_dim_m": 0.1698,
+    "watertight": true,
+    "volume_m3": 0.0002229,
+    "face_count": 14030,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

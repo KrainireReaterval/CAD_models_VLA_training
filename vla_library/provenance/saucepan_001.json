@@ -1,0 +1,43 @@
+{
+  "asset_id": "saucepan_001",
+  "family": "saucepan",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) c8c6b9fd04254a6489b3401696f60fc8",
+  "source_url": "https://sketchfab.com/3d-models/c8c6b9fd04254a6489b3401696f60fc8",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": true,
+  "candidate_regions": [
+    "handle",
+    "interior",
+    "rim",
+    "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: ie-niels; title: Saucepan from Poly by Google; separate lid body dropped (largest component kept)",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-098/c8c6b9fd04254a6489b3401696f60fc8.glb",
+  "stats": {
+    "extents_m": [
+      0.1794,
+      0.28,
+      0.0708
+    ],
+    "longest_dim_m": 0.28,
+    "watertight": true,
+    "volume_m3": 4.29e-05,
+    "face_count": 624,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "union",
+    "assigned_scale_m": 7.146753559278692e-07
+  },
+  "over_size_limit": false
+}

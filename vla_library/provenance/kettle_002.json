@@ -1,0 +1,43 @@
+{
+  "asset_id": "kettle_002",
+  "family": "kettle",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 3dd8ef4d52e2446c82346a93f460a0a8",
+  "source_url": "https://sketchfab.com/3d-models/3dd8ef4d52e2446c82346a93f460a0a8",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.24,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "body",
+    "spout",
+    "lid"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.24 m; Sketchfab author: runyhoangtan; title: kettle",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-133/3dd8ef4d52e2446c82346a93f460a0a8.glb",
+  "stats": {
+    "extents_m": [
+      0.24,
+      0.1821,
+      0.2009
+    ],
+    "longest_dim_m": 0.24,
+    "watertight": true,
+    "volume_m3": 0.0033091,
+    "face_count": 3684,
+    "bodies": 12,
+    "holes_filled": 13,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.08979965422601317
+  },
+  "over_size_limit": false
+}

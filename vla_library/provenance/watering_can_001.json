@@ -1,0 +1,43 @@
+{
+  "asset_id": "watering_can_001",
+  "family": "watering_can",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) feadfb9d10434182948d4e3e80117e71",
+  "source_url": "https://sketchfab.com/3d-models/feadfb9d10434182948d4e3e80117e71",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "body",
+    "spout",
+    "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: quack; title: Water Can",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-044/feadfb9d10434182948d4e3e80117e71.glb",
+  "stats": {
+    "extents_m": [
+      0.28,
+      0.07,
+      0.1667
+    ],
+    "longest_dim_m": 0.28,
+    "watertight": true,
+    "volume_m3": 0.0006922,
+    "face_count": 830,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.006157114791942436
+  },
+  "over_size_limit": false
+}

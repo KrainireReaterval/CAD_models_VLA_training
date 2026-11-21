@@ -1,0 +1,42 @@
+{
+  "asset_id": "cup_001",
+  "family": "cup",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 065-a_cups (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/065-a_cups_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "interior",
+    "rim",
+    "body"
+  ],
+  "ambiguous": false,
+  "notes": "stacking cup, no handle",
+  "raw_input": "_downloads/ycb/065-a_cups/065-a_cups/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.0571,
+      0.0574,
+      0.0615
+    ],
+    "longest_dim_m": 0.0615,
+    "watertight": true,
+    "volume_m3": 2.33e-05,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

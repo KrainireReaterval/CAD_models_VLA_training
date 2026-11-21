@@ -1,0 +1,43 @@
+{
+  "asset_id": "power_drill_002",
+  "family": "power_drill",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 2b82c7206188491bba8306650782f6fe",
+  "source_url": "https://sketchfab.com/3d-models/2b82c7206188491bba8306650782f6fe",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.22,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "body",
+    "chuck",
+    "trigger"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.22 m; Sketchfab author: Sbell_Reality3D; title: Cordless Drill 75K polygons",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-004/2b82c7206188491bba8306650782f6fe.glb",
+  "stats": {
+    "extents_m": [
+      0.1885,
+      0.0717,
+      0.22
+    ],
+    "longest_dim_m": 0.22,
+    "watertight": true,
+    "volume_m3": 0.0007915,
+    "face_count": 75000,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.0008968484815634772
+  },
+  "over_size_limit": false
+}

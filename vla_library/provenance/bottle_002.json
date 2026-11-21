@@ -1,0 +1,41 @@
+{
+  "asset_id": "bottle_002",
+  "family": "bottle",
+  "category_folder": "category1/ambiguous",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 021_bleach_cleanser (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/021_bleach_cleanser_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "body",
+    "cap",
+    "grip"
+  ],
+  "ambiguous": true,
+  "notes": "molded grip recess: handle ambiguous; held out of the 60",
+  "raw_input": "_downloads/ycb/021_bleach_cleanser/021_bleach_cleanser/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.1024,
+      0.0677,
+      0.2506
+    ],
+    "longest_dim_m": 0.2506,
+    "watertight": true,
+    "volume_m3": 0.0009723,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

@@ -1,0 +1,43 @@
+{
+  "asset_id": "candle_002",
+  "family": "candle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) c3d85aaabddf4585b2468a5bca9f51d5",
+  "source_url": "https://sketchfab.com/3d-models/c3d85aaabddf4585b2468a5bca9f51d5",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.12,
+  "largest_only": false,
+  "candidate_regions": [
+    "holder",
+    "top_face",
+    "wick"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.12 m; Sketchfab author: shannen_art; title: Simple candle; candle in jar holder",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-015/c3d85aaabddf4585b2468a5bca9f51d5.glb",
+  "stats": {
+    "extents_m": [
+      0.1055,
+      0.1056,
+      0.12
+    ],
+    "longest_dim_m": 0.12,
+    "watertight": true,
+    "volume_m3": 0.0008005,
+    "face_count": 2460,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "union",
+    "assigned_scale_m": 0.05105099221601825
+  },
+  "over_size_limit": false
+}

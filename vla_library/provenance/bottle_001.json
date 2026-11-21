@@ -1,0 +1,41 @@
+{
+  "asset_id": "bottle_001",
+  "family": "bottle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 006_mustard_bottle (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/006_mustard_bottle_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "body",
+    "cap",
+    "neck"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/ycb/006_mustard_bottle/006_mustard_bottle/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.0972,
+      0.0666,
+      0.1913
+    ],
+    "longest_dim_m": 0.1913,
+    "watertight": true,
+    "volume_m3": 0.000612,
+    "face_count": 16380,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

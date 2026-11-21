@@ -1,0 +1,41 @@
+{
+  "asset_id": "book_001",
+  "family": "book",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "cover_face",
+    "spine",
+    "page_edges"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1405,
+      0.0506,
+      0.2104
+    ],
+    "longest_dim_m": 0.2104,
+    "watertight": true,
+    "volume_m3": 0.0010383,
+    "face_count": 3812,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

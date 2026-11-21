@@ -1,0 +1,42 @@
+{
+  "asset_id": "screwdriver_001",
+  "family": "screwdriver",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 043_phillips_screwdriver (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/043_phillips_screwdriver_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "shaft",
+    "tip"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/ycb/043_phillips_screwdriver/043_phillips_screwdriver/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.1949,
+      0.107,
+      0.0355
+    ],
+    "longest_dim_m": 0.1949,
+    "watertight": true,
+    "volume_m3": 7.7e-05,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

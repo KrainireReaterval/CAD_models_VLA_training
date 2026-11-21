@@ -1,0 +1,41 @@
+{
+  "asset_id": "clock_001",
+  "family": "clock",
+  "category_folder": "category1/ambiguous",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Crosley_Alarm_Clock_Vintage_Metal",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Crosley_Alarm_Clock_Vintage_Metal",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_ring",
+    "face",
+    "legs"
+  ],
+  "ambiguous": true,
+  "notes": "top ring may or may not count as a handle; held out of the 60",
+  "raw_input": "_downloads/gso/Crosley_Alarm_Clock_Vintage_Metal/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1095,
+      0.054,
+      0.1623
+    ],
+    "longest_dim_m": 0.1623,
+    "watertight": true,
+    "volume_m3": 0.000354,
+    "face_count": 10248,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

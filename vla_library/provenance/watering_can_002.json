@@ -1,0 +1,43 @@
+{
+  "asset_id": "watering_can_002",
+  "family": "watering_can",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) b1bc8de2e44c4b49a4b9ca9b3f185ed9",
+  "source_url": "https://sketchfab.com/3d-models/b1bc8de2e44c4b49a4b9ca9b3f185ed9",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "body",
+    "spout",
+    "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: darthobsidian; title: Watering Pail (low poly)",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-050/b1bc8de2e44c4b49a4b9ca9b3f185ed9.glb",
+  "stats": {
+    "extents_m": [
+      0.28,
+      0.1122,
+      0.1579
+    ],
+    "longest_dim_m": 0.28,
+    "watertight": true,
+    "volume_m3": 0.0001679,
+    "face_count": 574,
+    "bodies": 4,
+    "holes_filled": 2,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.010816890117122904
+  },
+  "over_size_limit": false
+}

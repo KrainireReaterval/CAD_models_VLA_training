@@ -1,0 +1,692 @@
+[
+ {
+  "asset_id": "mug_002",
+  "family": "mug",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Porcelain_Coffee_Mug_All_Over_Bead_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Porcelain_Coffee_Mug_All_Over_Bead_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Porcelain_Coffee_Mug_All_Over_Bead_White/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "interior",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "pitcher_002",
+  "family": "pitcher",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Porcelain_Pitcher_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Porcelain_Pitcher_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Porcelain_Pitcher_White/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "interior",
+   "rim",
+   "spout"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "teapot_001",
+  "family": "teapot",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Porcelain_Teapot_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Porcelain_Teapot_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Porcelain_Teapot_White/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "spout",
+   "lid_knob"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "frying_pan_001",
+  "family": "frying_pan",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Chefmate_8_Frypan",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chefmate_8_Frypan",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Chefmate_8_Frypan/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "interior",
+   "rim",
+   "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": "over 0.3 m (handle length); review"
+ },
+ {
+  "asset_id": "basket_001",
+  "family": "basket",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects RJ_Rabbit_Easter_Basket_Blue",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/RJ_Rabbit_Easter_Basket_Blue",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/RJ_Rabbit_Easter_Basket_Blue/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "interior",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": "bail handle"
+ },
+ {
+  "asset_id": "milk_jug_001",
+  "family": "milk_jug",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Aroma_Stainless_Steel_Milk_Frother_2_Cup",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Aroma_Stainless_Steel_Milk_Frother_2_Cup",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Aroma_Stainless_Steel_Milk_Frother_2_Cup/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "lid"
+  ],
+  "ambiguous": false,
+  "notes": "milk frother jug with loop handle"
+ },
+ {
+  "asset_id": "bell_001",
+  "family": "hand_bell",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Cole_Hardware_School_Bell_Solid_Brass_38",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cole_Hardware_School_Bell_Solid_Brass_38",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Cole_Hardware_School_Bell_Solid_Brass_38/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "bell_body",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "butter_dish_001",
+  "family": "lidded_dish",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Cole_Hardware_Butter_Dish_Square_Red",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cole_Hardware_Butter_Dish_Square_Red",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Cole_Hardware_Butter_Dish_Square_Red/meshes/model.obj",
+  "candidate_regions": [
+   "knob",
+   "lid",
+   "base_plate"
+  ],
+  "ambiguous": false,
+  "notes": "handle = lid knob"
+ },
+ {
+  "asset_id": "magnifier_001",
+  "family": "magnifier",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Magnifying_Glassassrt",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Magnifying_Glassassrt",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Magnifying_Glassassrt/meshes/model.obj",
+  "candidate_regions": [
+   "handle",
+   "lens",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "clock_001",
+  "family": "clock",
+  "category_folder": "category1/ambiguous",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Crosley_Alarm_Clock_Vintage_Metal",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Crosley_Alarm_Clock_Vintage_Metal",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Crosley_Alarm_Clock_Vintage_Metal/meshes/model.obj",
+  "candidate_regions": [
+   "top_ring",
+   "face",
+   "legs"
+  ],
+  "ambiguous": true,
+  "notes": "top ring may or may not count as a handle; held out of the 60"
+ },
+ {
+  "asset_id": "bowl_002",
+  "family": "bowl",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Bead_Cereal_Bowl_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Bead_Cereal_Bowl_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Bead_Cereal_Bowl_White/meshes/model.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "exterior"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "plate_002",
+  "family": "plate",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Dinner_Plate_Square_Rim_White_Porcelain",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Dinner_Plate_Square_Rim_White_Porcelain",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Dinner_Plate_Square_Rim_White_Porcelain/meshes/model.obj",
+  "candidate_regions": [
+   "top_face",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "book_001",
+  "family": "book",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book/meshes/model.obj",
+  "candidate_regions": [
+   "cover_face",
+   "spine",
+   "page_edges"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "speaker_001",
+  "family": "speaker",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects JBL_Charge_Speaker_portable_wireless_wired_Green",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/JBL_Charge_Speaker_portable_wireless_wired_Green",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/JBL_Charge_Speaker_portable_wireless_wired_Green/meshes/model.obj",
+  "candidate_regions": [
+   "body",
+   "end_caps"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "speaker_002",
+  "family": "speaker",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black/meshes/model.obj",
+  "candidate_regions": [
+   "body",
+   "top_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "jar_001",
+  "family": "jar",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Nestle_Nesquik_Chocolate_Powder_Flavored_Milk_Additive_109_Oz_Canister",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Nestle_Nesquik_Chocolate_Powder_Flavored_Milk_Additive_109_Oz_Canister",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Nestle_Nesquik_Chocolate_Powder_Flavored_Milk_Additive_109_Oz_Canister/meshes/model.obj",
+  "candidate_regions": [
+   "body",
+   "lid"
+  ],
+  "ambiguous": false,
+  "notes": "canister"
+ },
+ {
+  "asset_id": "jar_002",
+  "family": "jar",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects AllergenFree_JarroDophilus",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/AllergenFree_JarroDophilus",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/AllergenFree_JarroDophilus/meshes/model.obj",
+  "candidate_regions": [
+   "body",
+   "lid"
+  ],
+  "ambiguous": false,
+  "notes": "supplement jar"
+ },
+ {
+  "asset_id": "bottle_003",
+  "family": "bottle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Marc_Anthony_True_Professional_Strictly_Curls_Curl_Defining_Lotion",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Marc_Anthony_True_Professional_Strictly_Curls_Curl_Defining_Lotion",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Marc_Anthony_True_Professional_Strictly_Curls_Curl_Defining_Lotion/meshes/model.obj",
+  "candidate_regions": [
+   "body",
+   "cap"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "cake_pan_001",
+  "family": "cake_pan",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Chef_Style_Round_Cake_Pan_9_inch_pan",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chef_Style_Round_Cake_Pan_9_inch_pan",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Chef_Style_Round_Cake_Pan_9_inch_pan/meshes/model.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "mouse_001",
+  "family": "computer_mouse",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Razer_Abyssus_Ambidextrous_Gaming_Mouse",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Razer_Abyssus_Ambidextrous_Gaming_Mouse",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Razer_Abyssus_Ambidextrous_Gaming_Mouse/meshes/model.obj",
+  "candidate_regions": [
+   "top_shell",
+   "buttons"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "mouse_002",
+  "family": "computer_mouse",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Razer_Taipan_White_Ambidextrous_Gaming_Mouse",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Razer_Taipan_White_Ambidextrous_Gaming_Mouse",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Razer_Taipan_White_Ambidextrous_Gaming_Mouse/meshes/model.obj",
+  "candidate_regions": [
+   "top_shell",
+   "buttons"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "tape_roll_001",
+  "family": "tape_roll",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects 3M_Vinyl_Tape_Green_1_x_36_yd",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/3M_Vinyl_Tape_Green_1_x_36_yd",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/3M_Vinyl_Tape_Green_1_x_36_yd/meshes/model.obj",
+  "candidate_regions": [
+   "outer_face",
+   "inner_hole",
+   "side_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "tape_roll_002",
+  "family": "tape_roll",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Shurtape_Gaffers_Tape_Silver_2_x_60_yd",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Shurtape_Gaffers_Tape_Silver_2_x_60_yd",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Shurtape_Gaffers_Tape_Silver_2_x_60_yd/meshes/model.obj",
+  "candidate_regions": [
+   "outer_face",
+   "inner_hole",
+   "side_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "flower_pot_001",
+  "family": "flower_pot",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Ecoforms_Pot_Nova_6_Turquoise",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Ecoforms_Pot_Nova_6_Turquoise",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Ecoforms_Pot_Nova_6_Turquoise/meshes/model.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "flower_pot_002",
+  "family": "flower_pot",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Cole_Hardware_Flower_Pot_1025",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cole_Hardware_Flower_Pot_1025",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Cole_Hardware_Flower_Pot_1025/meshes/model.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "soap_dish_001",
+  "family": "soap_dish",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Bamboo_Ceramic_Soap_Dish",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Bamboo_Ceramic_Soap_Dish",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Threshold_Bamboo_Ceramic_Soap_Dish/meshes/model.obj",
+  "candidate_regions": [
+   "top_face",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "figurine_001",
+  "family": "figurine",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Android_Figure_Panda",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Android_Figure_Panda",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Android_Figure_Panda/meshes/model.obj",
+  "candidate_regions": [
+   "head",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "hard_drive_001",
+  "family": "hard_drive",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Seagate_1TB_Backup_Plus_portable_drive_Blue",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Seagate_1TB_Backup_Plus_portable_drive_Blue",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Seagate_1TB_Backup_Plus_portable_drive_Blue/meshes/model.obj",
+  "candidate_regions": [
+   "top_face",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "pencil_case_001",
+  "family": "pencil_case",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Horse_Dreams_Pencil_Case",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Horse_Dreams_Pencil_Case",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Horse_Dreams_Pencil_Case/meshes/model.obj",
+  "candidate_regions": [
+   "top_face",
+   "zipper_seam",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "lunch_box_001",
+  "family": "lunch_box",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Olive_Kids_Dinosaur_Land_Lunch_Box",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Olive_Kids_Dinosaur_Land_Lunch_Box",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/gso/Olive_Kids_Dinosaur_Land_Lunch_Box/meshes/model.obj",
+  "candidate_regions": [
+   "top_face",
+   "zipper_seam",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": "soft fabric box; no carry handle visible"
+ }
+]

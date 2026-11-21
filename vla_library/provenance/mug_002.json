@@ -1,0 +1,42 @@
+{
+  "asset_id": "mug_002",
+  "family": "mug",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Porcelain_Coffee_Mug_All_Over_Bead_White",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Porcelain_Coffee_Mug_All_Over_Bead_White",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "body",
+    "interior",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Threshold_Porcelain_Coffee_Mug_All_Over_Bead_White/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1307,
+      0.0965,
+      0.1146
+    ],
+    "longest_dim_m": 0.1307,
+    "watertight": true,
+    "volume_m3": 0.0001798,
+    "face_count": 16644,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

@@ -1,0 +1,41 @@
+{
+  "asset_id": "block_002",
+  "family": "block",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 061_foam_brick (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/061_foam_brick_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/ycb/061_foam_brick/061_foam_brick/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.0526,
+      0.0779,
+      0.0512
+    ],
+    "longest_dim_m": 0.0779,
+    "watertight": true,
+    "volume_m3": 0.0001849,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

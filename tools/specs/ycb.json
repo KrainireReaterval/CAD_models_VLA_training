@@ -1,0 +1,685 @@
+[
+ {
+  "asset_id": "mug_001",
+  "family": "mug",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 025_mug (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/025_mug_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/025_mug/025_mug/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "interior",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "pitcher_001",
+  "family": "pitcher",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 019_pitcher_base (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/019_pitcher_base_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/019_pitcher_base/019_pitcher_base/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "interior",
+   "rim",
+   "spout"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "power_drill_001",
+  "family": "power_drill",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 035_power_drill (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/035_power_drill_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/035_power_drill/035_power_drill/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "body",
+   "chuck",
+   "trigger"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "hammer_001",
+  "family": "hammer",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 048_hammer (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/048_hammer_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/048_hammer/048_hammer/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "head",
+   "claw"
+  ],
+  "ambiguous": false,
+  "notes": "slightly over 0.3 m; review"
+ },
+ {
+  "asset_id": "spatula_001",
+  "family": "spatula",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 033_spatula (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/033_spatula_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/033_spatula/033_spatula/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "blade"
+  ],
+  "ambiguous": false,
+  "notes": "backup for 027_skillet; slightly over 0.3 m; review"
+ },
+ {
+  "asset_id": "screwdriver_001",
+  "family": "screwdriver",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 043_phillips_screwdriver (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/043_phillips_screwdriver_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/043_phillips_screwdriver/043_phillips_screwdriver/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "shaft",
+   "tip"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "screwdriver_002",
+  "family": "screwdriver",
+  "category_folder": "category1/handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 044_flat_screwdriver (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/044_flat_screwdriver_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/044_flat_screwdriver/044_flat_screwdriver/google_16k/textured.obj",
+  "candidate_regions": [
+   "handle",
+   "shaft",
+   "tip"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "can_001",
+  "family": "can",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 002_master_chef_can (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/002_master_chef_can_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/002_master_chef_can/002_master_chef_can/google_16k/textured.obj",
+  "candidate_regions": [
+   "body",
+   "top_face",
+   "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "can_002",
+  "family": "can",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 005_tomato_soup_can (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/005_tomato_soup_can_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/005_tomato_soup_can/005_tomato_soup_can/google_16k/textured.obj",
+  "candidate_regions": [
+   "body",
+   "top_face",
+   "bottom_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "box_001",
+  "family": "box",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 003_cracker_box (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/003_cracker_box_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/003_cracker_box/003_cracker_box/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "box_002",
+  "family": "box",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 004_sugar_box (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/004_sugar_box_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/004_sugar_box/004_sugar_box/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "bottle_001",
+  "family": "bottle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 006_mustard_bottle (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/006_mustard_bottle_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/006_mustard_bottle/006_mustard_bottle/google_16k/textured.obj",
+  "candidate_regions": [
+   "body",
+   "cap",
+   "neck"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "bowl_001",
+  "family": "bowl",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 024_bowl (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/024_bowl_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/024_bowl/024_bowl/google_16k/textured.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "exterior"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "block_001",
+  "family": "block",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 036_wood_block (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/036_wood_block_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/036_wood_block/036_wood_block/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "block_002",
+  "family": "block",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 061_foam_brick (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/061_foam_brick_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/061_foam_brick/061_foam_brick/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "plate_001",
+  "family": "plate",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 029_plate (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/029_plate_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/029_plate/029_plate/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "rim"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "cup_001",
+  "family": "cup",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 065-a_cups (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/065-a_cups_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/065-a_cups/065-a_cups/google_16k/textured.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": "stacking cup, no handle"
+ },
+ {
+  "asset_id": "cup_002",
+  "family": "cup",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 065-j_cups (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/065-j_cups_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/065-j_cups/065-j_cups/google_16k/textured.obj",
+  "candidate_regions": [
+   "interior",
+   "rim",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": "stacking cup, no handle"
+ },
+ {
+  "asset_id": "ball_001",
+  "family": "ball",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 053_mini_soccer_ball (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/053_mini_soccer_ball_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/053_mini_soccer_ball/053_mini_soccer_ball/google_16k/textured.obj",
+  "candidate_regions": [
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "ball_002",
+  "family": "ball",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 054_softball (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/054_softball_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/054_softball/054_softball/google_16k/textured.obj",
+  "candidate_regions": [
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "fruit_001",
+  "family": "fruit",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 013_apple (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/013_apple_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/013_apple/013_apple/google_16k/textured.obj",
+  "candidate_regions": [
+   "body",
+   "stem"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "fruit_002",
+  "family": "fruit",
+  "category_folder": "category1/no_handle",
+  "categories": [
+   "everyday",
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 017_orange (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/017_orange_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/017_orange/017_orange/google_16k/textured.obj",
+  "candidate_regions": [
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "bottle_002",
+  "family": "bottle",
+  "category_folder": "category1/ambiguous",
+  "categories": [
+   "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 021_bleach_cleanser (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/021_bleach_cleanser_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/021_bleach_cleanser/021_bleach_cleanser/google_16k/textured.obj",
+  "candidate_regions": [
+   "body",
+   "cap",
+   "grip"
+  ],
+  "ambiguous": true,
+  "notes": "molded grip recess: handle ambiguous; held out of the 60"
+ },
+ {
+  "asset_id": "padlock_001",
+  "family": "padlock",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 038_padlock (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/038_padlock_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/038_padlock/038_padlock/google_16k/textured.obj",
+  "candidate_regions": [
+   "shackle",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "marker_001",
+  "family": "marker",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 040_large_marker (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/040_large_marker_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/040_large_marker/040_large_marker/google_16k/textured.obj",
+  "candidate_regions": [
+   "cap",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "rubiks_cube_001",
+  "family": "cube",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 077_rubiks_cube (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/077_rubiks_cube_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/077_rubiks_cube/077_rubiks_cube/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "duplo_brick_001",
+  "family": "toy_brick",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 073-a_lego_duplo (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/073-a_lego_duplo_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/073-a_lego_duplo/073-a_lego_duplo/google_16k/textured.obj",
+  "candidate_regions": [
+   "studs",
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "ball_003",
+  "family": "ball",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 056_tennis_ball (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/056_tennis_ball_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/056_tennis_ball/056_tennis_ball/google_16k/textured.obj",
+  "candidate_regions": [
+   "body"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ },
+ {
+  "asset_id": "scissors_001",
+  "family": "scissors",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 037_scissors (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/037_scissors_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/037_scissors/037_scissors/google_16k/textured.obj",
+  "candidate_regions": [
+   "finger_loops",
+   "blades"
+  ],
+  "ambiguous": true,
+  "notes": "handle ambiguous (finger loops)"
+ },
+ {
+  "asset_id": "sponge_001",
+  "family": "sponge",
+  "category_folder": "category3",
+  "categories": [
+   "small"
+  ],
+  "origin": "scan",
+  "source": "YCB 026_sponge (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/026_sponge_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "input": "_downloads/ycb/026_sponge/026_sponge/google_16k/textured.obj",
+  "candidate_regions": [
+   "top_face",
+   "scrub_face"
+  ],
+  "ambiguous": false,
+  "notes": ""
+ }
+]

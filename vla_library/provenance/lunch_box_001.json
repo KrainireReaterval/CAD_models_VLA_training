@@ -1,0 +1,41 @@
+{
+  "asset_id": "lunch_box_001",
+  "family": "lunch_box",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Olive_Kids_Dinosaur_Land_Lunch_Box",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Olive_Kids_Dinosaur_Land_Lunch_Box",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "zipper_seam",
+    "side_faces"
+  ],
+  "ambiguous": false,
+  "notes": "soft fabric box; no carry handle visible",
+  "raw_input": "_downloads/gso/Olive_Kids_Dinosaur_Land_Lunch_Box/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.2606,
+      0.1074,
+      0.2095
+    ],
+    "longest_dim_m": 0.2606,
+    "watertight": true,
+    "volume_m3": 0.0044228,
+    "face_count": 15204,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

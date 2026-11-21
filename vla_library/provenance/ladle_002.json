@@ -1,0 +1,42 @@
+{
+  "asset_id": "ladle_002",
+  "family": "ladle",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) ce27e3369587476c85a436905f1e5c00",
+  "source_url": "https://sketchfab.com/3d-models/ce27e3369587476c85a436905f1e5c00",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "bowl",
+    "interior"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: O-tolab; title: Ladle \u25b3952",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-039/ce27e3369587476c85a436905f1e5c00.glb",
+  "stats": {
+    "extents_m": [
+      0.0847,
+      0.0847,
+      0.28
+    ],
+    "longest_dim_m": 0.28,
+    "watertight": true,
+    "volume_m3": 4.02e-05,
+    "face_count": 930,
+    "bodies": 1,
+    "holes_filled": 1,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0415794284968658
+  },
+  "over_size_limit": false
+}

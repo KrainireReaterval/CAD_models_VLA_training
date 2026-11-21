@@ -1,0 +1,42 @@
+{
+  "asset_id": "ladle_001",
+  "family": "ladle",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 252ad3b345ae433abdd92588b2f6e34e",
+  "source_url": "https://sketchfab.com/3d-models/252ad3b345ae433abdd92588b2f6e34e",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.28,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "bowl",
+    "interior"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.28 m; Sketchfab author: joseorozco84; title: Low Poly Ladle",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-008/252ad3b345ae433abdd92588b2f6e34e.glb",
+  "stats": {
+    "extents_m": [
+      0.1409,
+      0.0846,
+      0.28
+    ],
+    "longest_dim_m": 0.28,
+    "watertight": true,
+    "volume_m3": 1.34e-05,
+    "face_count": 3952,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.0032784600841900395
+  },
+  "over_size_limit": false
+}

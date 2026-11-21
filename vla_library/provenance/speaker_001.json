@@ -1,0 +1,40 @@
+{
+  "asset_id": "speaker_001",
+  "family": "speaker",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects JBL_Charge_Speaker_portable_wireless_wired_Green",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/JBL_Charge_Speaker_portable_wireless_wired_Green",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "body",
+    "end_caps"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/JBL_Charge_Speaker_portable_wireless_wired_Green/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1757,
+      0.0728,
+      0.0752
+    ],
+    "longest_dim_m": 0.1757,
+    "watertight": true,
+    "volume_m3": 0.0006489,
+    "face_count": 6928,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

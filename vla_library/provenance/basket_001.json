@@ -1,0 +1,42 @@
+{
+  "asset_id": "basket_001",
+  "family": "basket",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects RJ_Rabbit_Easter_Basket_Blue",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/RJ_Rabbit_Easter_Basket_Blue",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "body",
+    "interior",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "bail handle",
+  "raw_input": "_downloads/gso/RJ_Rabbit_Easter_Basket_Blue/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.2074,
+      0.1636,
+      0.2352
+    ],
+    "longest_dim_m": 0.2352,
+    "watertight": true,
+    "volume_m3": 0.0002586,
+    "face_count": 39616,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

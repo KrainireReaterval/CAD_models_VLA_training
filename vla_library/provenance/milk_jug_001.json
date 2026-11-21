@@ -1,0 +1,41 @@
+{
+  "asset_id": "milk_jug_001",
+  "family": "milk_jug",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Aroma_Stainless_Steel_Milk_Frother_2_Cup",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Aroma_Stainless_Steel_Milk_Frother_2_Cup",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "body",
+    "lid"
+  ],
+  "ambiguous": false,
+  "notes": "milk frother jug with loop handle",
+  "raw_input": "_downloads/gso/Aroma_Stainless_Steel_Milk_Frother_2_Cup/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1423,
+      0.1577,
+      0.1483
+    ],
+    "longest_dim_m": 0.1577,
+    "watertight": true,
+    "volume_m3": 0.0009253,
+    "face_count": 21578,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

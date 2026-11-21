@@ -1,0 +1,41 @@
+{
+  "asset_id": "hammer_001",
+  "family": "hammer",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "YCB 048_hammer (google_16k)",
+  "source_url": "http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/048_hammer_google_16k.tgz",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "head",
+    "claw"
+  ],
+  "ambiguous": false,
+  "notes": "slightly over 0.3 m; review",
+  "raw_input": "_downloads/ycb/048_hammer/048_hammer/google_16k/textured.obj",
+  "stats": {
+    "extents_m": [
+      0.1822,
+      0.3327,
+      0.0329
+    ],
+    "longest_dim_m": 0.3327,
+    "watertight": true,
+    "volume_m3": 0.0002589,
+    "face_count": 16384,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": true
+}

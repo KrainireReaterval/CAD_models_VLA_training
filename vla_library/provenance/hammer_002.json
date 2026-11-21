@@ -1,0 +1,42 @@
+{
+  "asset_id": "hammer_002",
+  "family": "hammer",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 76a75a4cafb74489a3c5385834058f0b",
+  "source_url": "https://sketchfab.com/3d-models/76a75a4cafb74489a3c5385834058f0b",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.3,
+  "largest_only": false,
+  "candidate_regions": [
+    "handle",
+    "head",
+    "claw"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.3 m; Sketchfab author: cc03d; title: Old Used Hammer 1 | CC0",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-066/76a75a4cafb74489a3c5385834058f0b.glb",
+  "stats": {
+    "extents_m": [
+      0.1337,
+      0.0344,
+      0.3
+    ],
+    "longest_dim_m": 0.3,
+    "watertight": true,
+    "volume_m3": 0.0002277,
+    "face_count": 3502,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.2025252921039704
+  },
+  "over_size_limit": false
+}

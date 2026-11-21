@@ -1,0 +1,31 @@
+item,source,source_url,license,reason
+source: Thingiverse,Thingiverse,https://www.thingiverse.com/thing:2187167/zip ; https://api.thingiverse.com/search/,per-model,BLOCKED: HTTP 403 Cloudflare challenge; API requires app token. Not worked around (per instructions).
+source: ShapeNet,ShapeNet,https://shapenet.org/,custom non-commercial research terms,Restrictive license + login/terms acceptance required
+source: PartNet-Mobility,SAPIEN,https://sapien.ucsd.edu/,custom non-commercial research terms,Restrictive license + login/terms acceptance required
+source: GrabCAD,GrabCAD,https://grabcad.com/library,no per-model open license,Unclear/restrictive license; login required
+Objaverse license filter (71 objects),Objaverse 1.0,https://huggingface.co/datasets/allenai/objaverse,by-nc / by-sa / by-nd / by-nc-sa,Excluded by license policy (only CC0 / CC-BY kept)
+027_skillet,YCB,http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/027_skillet_google_16k.tgz,CC-BY-4.0,Over size limit: longest 0.441 m (> 0.3 m). Not rescaled; held for review. Backup 033_spatula used.
+022_windex_bottle,YCB,http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/data/google/022_windex_bottle_google_16k.tgz,CC-BY-4.0,not_watertight after hole fill + meshfix (2 bodies); also ambiguous handle (spray trigger)
+Black_and_Decker_PBJ2000_FusionBlade_Blender_Jars,GSO,https://app.gazebosim.org/GoogleResearch/fuel/models/Black_and_Decker_PBJ2000_FusionBlade_Blender_Jars,CC-BY-4.0,"Mislabeled for our purpose: scan is the retail box, not the jar"
+Granimals_20_Wooden_ABC_Blocks_Wagon,GSO,https://app.gazebosim.org/GoogleResearch/fuel/models/Granimals_20_Wooden_ABC_Blocks_Wagon,CC-BY-4.0,Scan does not match name (shows a can-opener-like tool)
+CITY_TAXI_POLICE_CAR (was toy_car_001),GSO,https://app.gazebosim.org/GoogleResearch/fuel/models/CITY_TAXI_POLICE_CAR,CC-BY-4.0,Scan contains two separate toy cars
+Great_Dinos_Triceratops_Toy (was toy_001),GSO,https://app.gazebosim.org/GoogleResearch/fuel/models/Great_Dinos_Triceratops_Toy,CC-BY-4.0,"Mislabeled: scan is an Android figure, duplicate of figurine_001"
+Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue,GSO,https://app.gazebosim.org/GoogleResearch/fuel/models/Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue,CC-BY-4.0,Over size limit: 0.369 m; not used
+Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct,GSO,https://app.gazebosim.org/GoogleResearch/fuel/models/Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct,CC-BY-4.0,Over size limit: 0.331 m; not used
+toothpaste tube 3a77c506eaea4e08a10f1d288d2ce45d,Objaverse 1.0,https://sketchfab.com/3d-models/3a77c506eaea4e08a10f1d288d2ce45d,CC-BY-4.0,not_watertight after repair
+saucepan 5072a6cbabee47d7b2d7b74865bbc03b,Objaverse 1.0,https://sketchfab.com/3d-models/5072a6cbabee47d7b2d7b74865bbc03b,CC-BY-4.0,not_watertight after repair
+saucepan e9bb779c489140518c4a9882636d1c8f,Objaverse 1.0,https://sketchfab.com/3d-models/e9bb779c489140518c4a9882636d1c8f,CC-BY-4.0,not_watertight after repair
+saucepan fda8f9c3326745ac840f7115e50a8ce8,Objaverse 1.0,https://sketchfab.com/3d-models/fda8f9c3326745ac840f7115e50a8ce8,CC-BY-4.0,not_watertight after repair
+watering can ffb0d644238b4c679658aa0ee46ac6da,Objaverse 1.0,https://sketchfab.com/3d-models/ffb0d644238b4c679658aa0ee46ac6da,CC-BY-4.0,not_watertight after repair
+watering can a176193349884bf6912cca87bc11d955,Objaverse 1.0,https://sketchfab.com/3d-models/a176193349884bf6912cca87bc11d955,CC-BY-4.0,not_watertight after repair
+watering can 33fb4b71dbb4421a86427d56d892587a,Objaverse 1.0,https://sketchfab.com/3d-models/33fb4b71dbb4421a86427d56d892587a,CC-BY-4.0,not_watertight after repair
+drill e3b3290b8200475993a37c5c56b18ee1,Objaverse 1.0,https://sketchfab.com/3d-models/e3b3290b8200475993a37c5c56b18ee1,CC-BY-4.0,not_watertight after repair
+drill af85273c56464aaa835e57f8377ec7ad,Objaverse 1.0,https://sketchfab.com/3d-models/af85273c56464aaa835e57f8377ec7ad,CC-BY-4.0,not_watertight after repair
+stapler f15c7f6fbf7d4c4a88217b32dfd39eec,Objaverse 1.0,https://sketchfab.com/3d-models/f15c7f6fbf7d4c4a88217b32dfd39eec,CC-BY-4.0,not_watertight after repair
+remote 5db7c77a0e46426f89251401815dbbbb,Objaverse 1.0,https://sketchfab.com/3d-models/5db7c77a0e46426f89251401815dbbbb,CC-BY-4.0,not_watertight after repair
+remote f1bbc61a42b94ee9a2976ca744f8962e,Objaverse 1.0,https://sketchfab.com/3d-models/f1bbc61a42b94ee9a2976ca744f8962e,CC-BY-4.0,not_watertight after repair
+remote 2924224f899b43de93e9fd43c9a0a079,Objaverse 1.0,https://sketchfab.com/3d-models/2924224f899b43de93e9fd43c9a0a079,CC-BY-4.0,not_watertight after repair
+kettle 1f88f7cc096643ba8e364c2b0091a7e5,Objaverse 1.0,https://sketchfab.com/3d-models/1f88f7cc096643ba8e364c2b0091a7e5,CC-BY-4.0,not_watertight after repair
+candle 48c03ba452f24951bbe763dc03104551,Objaverse 1.0,https://sketchfab.com/3d-models/48c03ba452f24951bbe763dc03104551,CC-BY-4.0,model fused to a ground plane
+ladle (LVIS) 33e751c2087542618e2e1a9d9ef77af8,Objaverse 1.0,https://sketchfab.com/3d-models/33e751c2087542618e2e1a9d9ef77af8,CC0-1.0,actually a slotted skimmer
+ladle (LVIS) 55ca8d1ed3e74bd399c92d91ee1e7da1,Objaverse 1.0,https://sketchfab.com/3d-models/55ca8d1ed3e74bd399c92d91ee1e7da1,CC-BY-4.0,actually a spoon

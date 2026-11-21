@@ -1,0 +1,42 @@
+{
+  "asset_id": "bell_001",
+  "family": "hand_bell",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Cole_Hardware_School_Bell_Solid_Brass_38",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cole_Hardware_School_Bell_Solid_Brass_38",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "handle",
+    "bell_body",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Cole_Hardware_School_Bell_Solid_Brass_38/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.083,
+      0.083,
+      0.1596
+    ],
+    "longest_dim_m": 0.1596,
+    "watertight": true,
+    "volume_m3": 8.03e-05,
+    "face_count": 8752,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

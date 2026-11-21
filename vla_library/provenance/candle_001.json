@@ -1,0 +1,43 @@
+{
+  "asset_id": "candle_001",
+  "family": "candle",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 497251bd38464483b93ac9e7cde0dd05",
+  "source_url": "https://sketchfab.com/3d-models/497251bd38464483b93ac9e7cde0dd05",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.12,
+  "largest_only": false,
+  "candidate_regions": [
+    "body",
+    "top_face",
+    "wick"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.12 m; Sketchfab author: RainerWahnsinn; title: Candle",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-134/497251bd38464483b93ac9e7cde0dd05.glb",
+  "stats": {
+    "extents_m": [
+      0.0667,
+      0.0641,
+      0.12
+    ],
+    "longest_dim_m": 0.12,
+    "watertight": true,
+    "volume_m3": 0.0002403,
+    "face_count": 822,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 0.0010869725770549384
+  },
+  "over_size_limit": false
+}

@@ -1,0 +1,42 @@
+{
+  "asset_id": "butter_dish_001",
+  "family": "lidded_dish",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday",
+    "small"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Cole_Hardware_Butter_Dish_Square_Red",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cole_Hardware_Butter_Dish_Square_Red",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "knob",
+    "lid",
+    "base_plate"
+  ],
+  "ambiguous": false,
+  "notes": "handle = lid knob",
+  "raw_input": "_downloads/gso/Cole_Hardware_Butter_Dish_Square_Red/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1149,
+      0.1152,
+      0.0852
+    ],
+    "longest_dim_m": 0.1152,
+    "watertight": true,
+    "volume_m3": 0.0004432,
+    "face_count": 34140,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

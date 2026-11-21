@@ -1,0 +1,43 @@
+{
+  "asset_id": "bucket_001",
+  "family": "bucket",
+  "category_folder": "category1/handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) 64c4b2642a3c4de5a95fdfa44e7a5fdd",
+  "source_url": "https://sketchfab.com/3d-models/64c4b2642a3c4de5a95fdfa44e7a5fdd",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.25,
+  "largest_only": false,
+  "candidate_regions": [
+    "bail_handle",
+    "body",
+    "interior",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.25 m; Sketchfab author: hoosker; title: Paint Bucket - Easy Model",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-099/64c4b2642a3c4de5a95fdfa44e7a5fdd.glb",
+  "stats": {
+    "extents_m": [
+      0.236,
+      0.25,
+      0.2058
+    ],
+    "longest_dim_m": 0.25,
+    "watertight": true,
+    "volume_m3": 0.0014767,
+    "face_count": 8080,
+    "bodies": 2,
+    "holes_filled": 2,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "union",
+    "assigned_scale_m": 0.12500000007259654
+  },
+  "over_size_limit": false
+}

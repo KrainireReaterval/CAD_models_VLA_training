@@ -1,0 +1,40 @@
+{
+  "asset_id": "speaker_002",
+  "family": "speaker",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "body",
+    "top_face"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.1058,
+      0.104,
+      0.2607
+    ],
+    "longest_dim_m": 0.2607,
+    "watertight": true,
+    "volume_m3": 0.0020622,
+    "face_count": 4594,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}

@@ -1,0 +1,42 @@
+{
+  "asset_id": "vase_002",
+  "family": "vase",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "cad",
+  "source": "Objaverse 1.0 (Sketchfab) d726514a97f74f168b104fd6ba538331",
+  "source_url": "https://sketchfab.com/3d-models/d726514a97f74f168b104fd6ba538331",
+  "license": "CC-BY-4.0",
+  "source_units": "unitless",
+  "up": "y",
+  "fit_longest": 0.25,
+  "largest_only": false,
+  "candidate_regions": [
+    "body",
+    "neck",
+    "opening"
+  ],
+  "ambiguous": false,
+  "notes": "artist mesh; unitless source, scaled so longest dim = 0.25 m; Sketchfab author: Nameera; title: Stylized Vase 1",
+  "raw_input": "_downloads/objaverse_meta/hf-objaverse-v1/glbs/000-128/d726514a97f74f168b104fd6ba538331.glb",
+  "stats": {
+    "extents_m": [
+      0.1653,
+      0.1653,
+      0.25
+    ],
+    "longest_dim_m": 0.25,
+    "watertight": true,
+    "volume_m3": 0.0029993,
+    "face_count": 1584,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "none",
+    "assigned_scale_m": 0.002103238723860963
+  },
+  "over_size_limit": false
+}

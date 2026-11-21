@@ -1,0 +1,40 @@
+{
+  "asset_id": "plate_002",
+  "family": "plate",
+  "category_folder": "category1/no_handle",
+  "categories": [
+    "everyday"
+  ],
+  "origin": "scan",
+  "source": "Google Scanned Objects Threshold_Dinner_Plate_Square_Rim_White_Porcelain",
+  "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Threshold_Dinner_Plate_Square_Rim_White_Porcelain",
+  "license": "CC-BY-4.0",
+  "source_units": "m",
+  "scale": 1.0,
+  "up": "z",
+  "candidate_regions": [
+    "top_face",
+    "rim"
+  ],
+  "ambiguous": false,
+  "notes": "",
+  "raw_input": "_downloads/gso/Threshold_Dinner_Plate_Square_Rim_White_Porcelain/meshes/model.obj",
+  "stats": {
+    "extents_m": [
+      0.271,
+      0.2735,
+      0.0389
+    ],
+    "longest_dim_m": 0.2735,
+    "watertight": true,
+    "volume_m3": 0.0005374,
+    "face_count": 4084,
+    "bodies": 1,
+    "holes_filled": 0,
+    "decimated": false,
+    "normals_inverted": false,
+    "repair": "meshfix",
+    "assigned_scale_m": 1.0
+  },
+  "over_size_limit": false
+}
